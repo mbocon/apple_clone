@@ -17,4 +17,4 @@ I built this clone only to practice with HTML/CSS.
 
 ## FUTURE ENHANCEMENTS:
 
-- TBD
+- Need to add responsiveness, currently not mobile friendly.
