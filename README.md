@@ -13,7 +13,7 @@ I built this clone only to practice with HTML/CSS.
 
 ## VISIT SITE:
 
-- Live link will go here once deployed 
+- https://mbocon.github.io/apple_clone/
 
 ## FUTURE ENHANCEMENTS:
 
